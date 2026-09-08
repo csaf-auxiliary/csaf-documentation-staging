@@ -1,5 +1,5 @@
 ---
-title: 'CSAF Open Source Services & Tools'
+title: 'Open Source Services & Tools'
 date: '2026-09-08T09:40:00+02:00'
 layout: 'tools'
 draft: false
