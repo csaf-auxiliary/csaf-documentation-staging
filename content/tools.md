@@ -21,7 +21,8 @@ Secvisogram is a tool for creating and editing advisories in CSAF format.
 {{% card %}}
 ### [CSAF Visualizer](https://json.csaf.io/)
 A tool to visualize the CSAF JSON Schema.
-{{% license Apache-2.0 %}}
+{{% source "https://github.com/santosomar/csaf-json-visualizer" %}}
+{{% license MIT %}}
 {{% /card %}}
 
 {{% card %}}
